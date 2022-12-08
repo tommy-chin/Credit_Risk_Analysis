@@ -7,9 +7,10 @@ For this data analysis, six different machine learning models were used which ar
   * The accuracy score was 62.85%, the precision score for high risk was 1%, and the recall score for high risk was 54%.
 ![Naive Random Samplijng.PNG](https://github.com/tommy-chin/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Samplijng.PNG)
 * Smote Oversampling
-  The accuracy score was 61.57%, the precision score for high risk was 1%, and the recall score for high risk was 57%.
+  * The accuracy score was 61.57%, the precision score for high risk was 1%, and the recall score for high risk was 57%.
 ![Smote Oversampling.PNG](https://github.com/tommy-chin/Credit_Risk_Analysis/blob/main/Images/Smote%20Oversampling.PNG)
 * Undersampling
+  * The accuracy score was 61.57%, the precision score for high risk was 1%, and the recall score for high risk was 57%.
 ![Undersampling.PNG](https://github.com/tommy-chin/Credit_Risk_Analysis/blob/main/Images/Undersampling.PNG)
 * Combination Sampling
 ![Combination Sampling.PNG](https://github.com/tommy-chin/Credit_Risk_Analysis/blob/main/Images/Combination%20Sampling.PNG)

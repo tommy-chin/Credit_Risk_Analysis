@@ -4,8 +4,10 @@ A P2P lending services company named Fast Lending was interested in using machin
 ## Results
 For this data analysis, six different machine learning models were used which are listed below.
 * Naive Random Sampling
+  The accuracy score was 62.85%, the precision score for high risk was 1%, and the recall score for high risk was 54%.
 ![Naive Random Samplijng.PNG](https://github.com/tommy-chin/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Samplijng.PNG)
 * Smote Oversampling
+  The accuracy score was 61.57%, the precision score for high risk was 1%, and the recall score for high risk was 57%.
 ![Smote Oversampling.PNG](https://github.com/tommy-chin/Credit_Risk_Analysis/blob/main/Images/Smote%20Oversampling.PNG)
 * Undersampling
 ![Undersampling.PNG](https://github.com/tommy-chin/Credit_Risk_Analysis/blob/main/Images/Undersampling.PNG)
